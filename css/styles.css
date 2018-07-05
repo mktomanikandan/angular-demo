@@ -1,0 +1,24 @@
+#user-profile {
+  border: 2px solid;
+}
+
+#user-profile-img {
+  float: right;
+  border: 2px solid;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#user-container {
+  margin-top: 50px;
+  border: 2px solid;
+  margin-left: 100px;
+}
+
+.user-profile-img-height {
+  padding-top: 10px;
+}
+
+.user-profile-bgcolor {
+  background: lightgray;
+}
